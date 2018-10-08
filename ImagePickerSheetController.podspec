@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ImagePickerSheetController"
-  s.version      = "0.9.3"
+  s.version      = "0.9.4"
   s.summary      = "ImagePickerSheetController is like the custom photo action sheet found in the iOS 8 and 9 version of iMessage"
 
   s.description  = <<-DESC
@@ -56,10 +56,10 @@ Pod::Spec.new do |s|
   #  the deployment target. You can optionally include the target after the platform.
   #
 
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "10.0"
 
   #  When using multiple platforms
-  s.ios.deployment_target = "9.0"
+  s.ios.deployment_target = "10.0"
   # s.osx.deployment_target = "10.7"
 
 
